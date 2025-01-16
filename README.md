@@ -1,3 +1,5 @@
+https://www.notion.so/ESP32-Microcontroller-17c7578929b68053bfc9c995c62e1a03?pvs=4
+
 # ESP32 Microcontroller
 
 ## **How to Design a Custom ESP32 Board**
