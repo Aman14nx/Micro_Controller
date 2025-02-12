@@ -1,6 +1,14 @@
-[https://www.notion.so/ESP32-Microcontroller-17c7578929b68053bfc9c995c62e1a03?pvs=4](https://mud-barge-6df.notion.site/ESP32-Microcontroller-17c7578929b68053bfc9c995c62e1a03?pvs=4)
+🚀 **Updated Version Available!** 🚀  
+This repository contains the first version of the ESP32 Custom Board.  
+A **new refined version** with improved power management and UART communication  
+is available **here in the Refined-Version https://mud-barge-6df.notion.site/ESP32-Microcontroller-1977578929b6800c9e9beba360cbae37?pvs=4
+
+
+
+
 
 # ESP32 Microcontroller
+[https://www.notion.so/ESP32-Microcontroller-17c7578929b68053bfc9c995c62e1a03?pvs=4](https://mud-barge-6df.notion.site/ESP32-Microcontroller-17c7578929b68053bfc9c995c62e1a03?pvs=4)
 
 ## **How to Design a Custom ESP32 Board**
 
